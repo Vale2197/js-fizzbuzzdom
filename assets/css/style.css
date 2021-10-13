@@ -1,0 +1,44 @@
+li {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    background-color: cornflowerblue;
+    margin: 1rem;
+    padding: 1rem;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 5rem;
+    font-family: monospace;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: #183A4A;
+}
+
+.blueBox {
+    background: #3D88AE;
+}
+
+.yellowBox {
+    background-color: #F9D277;
+}
+
+.greenBox {
+    background-color: #61D2A4;
+
+}
+
+.redBox {
+    background-color: #DE5471;
+}
